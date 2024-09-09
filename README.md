@@ -5,7 +5,7 @@ Grand Blanc, Michigan 48439
 ## Introduction
 I am Keegan Munger, I am currently a senior in highschool, and I plan on going to Wayne State University, for a bachelor's degree in Computer Science.
 ## Experience
-- Was a member of the Robotics Team 2337, the ENGInerds, for 2 years as a programmer
+- Was a member of the Robotics Team 2337, the EngiNERDs, for 2 years as a programmer
 ## Education
 - Enrolled at Grand Blanc Highschool as a Senior
 ## Social Media  
