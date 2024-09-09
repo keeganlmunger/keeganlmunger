@@ -7,7 +7,7 @@ I am Keegan Munger, I am currently a senior in highschool, and I plan on going t
 ## Experience
 - Was a member of the Robotics Team 2337, the ENGInerds, for 2 years as a programmer
 ## Education
-- Enrolled at Grand Blanc Highschool as a junior
+- Enrolled at Grand Blanc Highschool as a Senior
 ## Social Media  
    <a href="https://www.linkedin.com/in/keegan-munger/">
 	   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  
